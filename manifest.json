@@ -1,0 +1,16 @@
+{
+  "name": "Artikelliste",
+  "short_name": "Artikelliste",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0fdf4",
+  "theme_color": "#22c55e",
+  "description": "Moderne Artikelliste mit Barcode und Pickliste",
+  "icons": [
+    {
+      "src": "artikelliste_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
